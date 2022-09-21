@@ -1,0 +1,15 @@
+{
+  "name": "dustjs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "peggy": "peggy lib/dust.peggyjs -o ./lib/parser.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "peggy": "^2.0.1"
+  }
+}
